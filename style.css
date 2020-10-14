@@ -129,11 +129,13 @@ section h4 {
     background-color: black;
     padding-top: 0;
     height: auto;
+    
 }
 
 .project-img {
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: -4px; 
 }
 
 
@@ -221,7 +223,7 @@ section ul li a:hover {
         margin-left: 35%;
         margin-right: 35%;
         margin-top: 0;
-        margin-bottom: 0;
+        margin-bottom: -4px;
     }
 
 
